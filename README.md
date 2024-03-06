@@ -1,3 +1,3 @@
 # Amazon:-
-Software Test Automation -Using Katalon
-Guided Project - Smart Internz
+- Software Test Automation -Using Katalon
+- Guided Project - Smart Internz
